@@ -1,0 +1,89 @@
+/* nav{
+    background-color: #0f1111;
+  }
+  
+  .navbar{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    justify-content: space-between;
+    gap: 30px;
+    width: fit-content;
+    margin: 0px auto;
+  }
+  
+  .logo{
+    padding-left: 32px;
+  }
+  
+  .navbar div{
+    cursor: pointer;
+  }
+  
+  .searchBar{
+    height: 35px;
+    border: none;
+  }
+  
+  .types{
+    width: 50px;
+    padding: 4px 0px 4px 3px;
+    border-radius: 4px 0px 0px 4px;
+    cursor: pointer;
+  }
+  
+  .search{
+    width: 35vw;
+    padding: 10px;
+  }
+  
+  .searchBtn{
+    width: 50px;
+    padding: 1px 14px;
+    border: none;
+    background-color: yellow;
+    border-radius: 0px 4px 4px 0px;
+    cursor: pointer;
+  }
+  
+  .searchBar{
+    display: flex;
+  }
+  
+  .location .locate::before{
+   content: 'Deliver to';
+   font-size: 12px;
+   font-weight: 500;
+   color: gainsboro;
+  
+  }
+  
+  .navbar img{
+    width: 25px;
+  }
+  
+  .location{
+    display: flex;
+    align-items: center;
+  }
+  
+  .login::before{
+    content: 'Hello, sign in';
+    font-size: 12px;
+    font-weight: 500;
+    color: gainsboro;
+  }
+  
+  .orders::before{
+    content: 'Returns';
+    font-size: 12px;
+    font-weight: 500;
+    color: gainsboro;
+  }
+  
+  .cart{
+    margin-right: 32px;
+  } */
